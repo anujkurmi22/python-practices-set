@@ -1,0 +1,1 @@
+'''WAP to  return the sequre of a number '''
