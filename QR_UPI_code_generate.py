@@ -1,6 +1,5 @@
 # import sys, subprocess
 # subprocess.check_call([sys.executable, "-m", "pip","install","Pillow","qrcode[pil]"])
-
 import qrcode
 
 upi_id = input("enter your upi id = ")
